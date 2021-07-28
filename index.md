@@ -27,9 +27,9 @@
 				<!-- Nav -->
 					<nav id="nav">
 						<ul>
-							<li><a href="#intro" class="active">About Me</a></li>
-							<li><a href="#first">Skills</a></li>
-							<li><a href="#cta">Contact Me</a></li>
+							-   [About Me](#intro)
+							-   [Skills](#first)
+							-   [Contact Me](#cta)
 						</ul>
 					</nav>
 
